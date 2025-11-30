@@ -1,1 +1,1 @@
-google.com, pub-3514250944145156, DIRECT, f08c47fec0942fa0
+# Your app-ads.txt can be edited to list authorized sellers of your app ad inventory.
